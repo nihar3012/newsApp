@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "757371948037",
+    "project_id": "newsportal-f215e",
+    "storage_bucket": "newsportal-f215e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757371948037:android:040cdc97cdb7435ff2206c",
+        "android_client_info": {
+          "package_name": "com.example.newsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757371948037-8gih7fknnfdbnorpvbpu6ujgo3qcoasl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4AJ5LLdCqz2ZxrUkSx5UEf9TtDXKhFaY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757371948037-8gih7fknnfdbnorpvbpu6ujgo3qcoasl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
